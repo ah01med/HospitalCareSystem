@@ -1,0 +1,6 @@
+Type,Quantity,Batch
+Bandage,-5,B_BAD
+Saline,0,S_ZERO
+Gloves,abc,G_BAD
+IV_Set,30,
+PPE_Kit,20,PPE_OK
